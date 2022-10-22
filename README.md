@@ -51,36 +51,24 @@ The Authentication page of the application contains -
 
 ### 1. Home Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181441355-4324ecab-e617-4439-a0f9-8a7ff01324f4.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441418-023a5926-a8e4-4534-9770-fd55ee3ce5c2.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441511-e645e907-d71e-4602-9c17-27cba1420fdf.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181441970-832c9ace-9dbb-4308-bed6-d062247f4147.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442072-e3e87b33-f36d-413c-9649-27a4387e2744.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442147-caf6dfdd-f696-4ab3-a298-8d32313476a6.png" width="1000"> 
+<img src="https://github.com/raihankhan-rk/medbase-readme/blob/main/Landing%20Page.png" width="1000"> <img src="https://github.com/raihankhan-rk/medbase-readme/blob/main/About.png" width="1000"> <img src="https://github.com/raihankhan-rk/medbase-readme/blob/main/Our%20Team.png" width="1000"> 
 </pre>
 
-### 2. Social Media Section
+### 2. Authentication
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181442605-3aa75389-bc37-47e3-9a61-fafc3a883033.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181442623-377b9dc9-adc3-4091-a21a-9770278d3745.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444492-36fa33ac-2ae3-43ad-a724-5b5776374212.png" width="1000">
+<img src="https://github.com/raihankhan-rk/medbase-readme/blob/main/Authentication.png" width="1000">
 </pre>
 
-### 3. Top Products
+### 3. Dashboard
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/181443175-447222b4-88a2-460e-8dc5-6de1a4446e34.png" width="1000"> 
+<img src="https://github.com/raihankhan-rk/medbase-readme/blob/main/Dashboard.png" width="1000"> 
 </pre>
 
-### 4. Big Billion Days Section
-<pre>
-<img src="https://user-images.githubusercontent.com/78029145/181445122-c06045a3-0a09-409e-ae3e-a998f62c3bbe.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181445500-59bd19e6-6b65-4c39-8bd7-46d4a8f6d510.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/181444896-495bea4b-5808-4a1a-8542-cf86ea449420.png" width="1000">
-</pre>
-
-## Run Locally
-
-1.1 `git clone <repo link>`
-
-1.2 `cd ManageIt`
-
-1.3 `flask run`
 
 ## Link To GitHub Readme
 
-See the code [here](https://github.com/BhaswatiRoy/FlipAnalyse)
+See the code [here](https://github.com/raihankhan-rk/medbase-readme)
 
 ## Link To Deployed App
 
-See the deployed app [here](https://mighty-dusk-36159.herokuapp.com/)
+See the deployed app [here](https://medbase-ii.web.app/)
