@@ -36,14 +36,16 @@ There are 2 main sections in the app as follows -
 
 The home page of the application contains -
   1. <b>Landing Page</b> - Here users can get started with using our application
-  2. <b>Navigation Card containing link to Social Media section</b> - Analysis and plots related to sentiments of customer review posts on social medias.
-  3. <b>Navigation Card containing link to Top Products section</b> - Top 90 trendy electronics products on social media along with their details.
-  4. <b>Navigation Card containing link to Big Billion Days section</b> - Analysis and plots related to products sold and customer feedbacks of the same during Big Billion Days
+  2. <b>About the product</b> - A brief description of what and how our product works.
+  3. <b>Our Team</b> - This section contains the photos of the team members.
+
+The Authentication page of the application contains -
+  1. <b>Sign In Option</b> - Here the patient will enter his phone no. in order to login to view the dashboard. <b>Note - </b> We don't have a separate sign up page for the patients. To make the process even simpler, we integrated both login and signup in one page itself. If the user is not registered, he will be prompted to sign up.
 
 ## Future Prospects
 
-- Add a Login-Logout system in the application 
-- Add a Meeting Section to update about the upcoming or incomplete meetings in the workplace
+- <b>Aadhaar Authentication</b> - This will ensure that no patient has more than one account on MedBase.
+- <b>ML Incorporation</b> - We will add an OCR model to ensure that no similar documents are uploaded with different digital stamps.
 
 ## UI Of The Web Application
 
