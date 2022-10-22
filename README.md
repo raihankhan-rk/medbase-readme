@@ -1,8 +1,8 @@
 <h1 align="center">
-             🟡FlipAnalyse🔵
+             🟢MedBase🟢
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/181165548-0bdca110-6bfd-48b4-bfed-66cf2c3b8361.png)
+![image](https://github.com/raihankhan-rk/medbase-readme/blob/main/MedBase%20Cover.jpg)
 
 
 ## Overview of the App
@@ -10,18 +10,16 @@
 <table>
 <tr>
 <td>
-This application can be used by Flipkart to get a detailed overall sentiment analysis of customer reviews for Flipkart products scrapped from multiple social media platforms like - Twitter, LinkedIn, Reddit. It also contains a section which displays the top 90 Electronics Products extracted from various social media platforms along with the details of the products taken from Flipkart. Additionally the application also gives meaningful insights from the analysis shown of the products sold and customer feedbacks during Flipkart Big Billion Days.
+MedBase is an online platform to maintain medical records of a patient. It runs on the IPFS - InterPlanetary File System protocol making it accessible even from a anywhere across the globe! All the patients will have an account on MedBase with a unique id assigned to them. The unique id can then be used from any hospital/clinic across the world to upload or retreive the patient's medical records easily. IPFS is a P2P protocol much like Blockchain, hence once a record is uploaded, it can never be deleted. This ensures that no medical record of any patient can be forged.
 </td>
 </tr>
 </table>
 
-There are 3 main sections in the app as follows -
+There are 2 main sections in the app as follows -
 
-1. <b>Social Media</b> - This section contains a total of 6 plots to display the analysis of sentiment counts and percentages via Histograms and Pie Charts for tweets, posts, contents extacted from social media platforms like Twitter, Reddit, LinkedIn using web scrapping tools like ParseHub, Apify. The data scrapped from different social media platforms are passed through a Recurrent Neural Network Sentiment Anlaysis Model with 99.2% accuracy to predict the results.
+1. <b>Patient Authentication</b> - This section will be used to authenticate the ptients via phone no. We've used Phone no. as our method of authentication so that later on we can implement Aadhaar authentication to make sure that no patient has more than one account on MedBase. 
 
-2. <b>Top Products</b> - This section contains top 90 trendy electronics products on social media platforms like Facebook, Instagram using web scrapping tools like ParseHub, Apify and the details of the respective products taken from official site of Flipkart. The data scrapped from multiple social media platforms is used to match with products on flipkart and then details of those products are extracted.
-
-3. <b>Big Billion Days Sale</b> - This section contains a total of 6 plots to showcase the insights of sale of products and products categories sold along with customer feedbacks and reviews for the same. The dataset is collected for Big Billion Days 2021 and analysis is drawn.
+2. <b>Dashboard</b> - The Dashboard will contain a table of all the Medical records of the patient that has been uploaded till date. The records will be sorted in the order of date uploaded. From the dashboard, anyone can upload or retreive any medical document of the patient who's account is logged in. Besides this, the dashboard will also contain a card which we call the "MedBase Card", which will have the basic user details and a 12 digit unique id, which can be used in the hospitals to retreive the patient's data.
 
 
 ## Tech Stack Used -
